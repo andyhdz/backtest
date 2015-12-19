@@ -1,0 +1,23 @@
+excel data format:
+
+currently assuming data type as dateprice and ascending order as to date
+RESULTS ARE THE SAME AS EXCEL
+type 'dateprice'
+line 1 : introduction/title/information 
+from line 2: date price
+
+/*
+// currently not implemented
+type 'datereturn'
+line 1 : ...
+from line 2: date return since last date
+
+type 'datepricereturn'
+line 1 :. ...
+from line 2: date price return
+*/
+
+/*
+Market data :
+symbol date price//基金复权净值
+*/
